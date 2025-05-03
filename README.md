@@ -13,7 +13,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-mousa11&show_icons=true&locale=en&layout=compact" alt="mohamed-mousa11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mousa11&" alt="mohamed-mousa11" /></p>
 
 
 
