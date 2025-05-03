@@ -15,10 +15,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-mousa11&" alt="mohamed-mousa11" /></p>
 
-  <!-- Languages -->
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=5&theme=codeSTACKr"/>
-  </p>
+
 
   <!-- Snake -->
   <p align="center">
