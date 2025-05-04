@@ -20,7 +20,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bash,nginx,mui,html,css,vscode,github,redis,git,rabbitmq" />
     <img src="https://skillicons.dev/icons?i=c,python,bash,,kibana,grafana,elasticsearch,elastic,Prometheus,mongodb,mysql" />
-    <img src="https://skillicons.dev/icons?i=github,linux,nginx,aws,azure,OCI,gcp,docker,kubernetes,ansible,terraform" /><br>
+    <img src="https://skillicons.dev/icons?i=github,linux,aws,azure,oci,gcp,docker,kubernetes,ansible,terraform" /><br>
 </div>
 
 <div align="center">
