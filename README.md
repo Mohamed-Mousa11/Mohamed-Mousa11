@@ -23,4 +23,19 @@
   <br/><br/><br/>
 </div>
 
- 
+ <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+<a href="https://github.com/khaled308">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=khaled308&show_icons=true&theme=react&hide_border=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled308&layout=compact&langs_count=8&theme=react&hide_border=true"/>
+</a>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaled308&show_icons=true&locale=en&layout=demo&theme=react&hide_border=true" />
+
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
