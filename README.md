@@ -18,9 +18,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bash,nginx,mui,html,css,vscode,github,redis,git,rabbitmq" />
-    <img src="https://skillicons.dev/icons?i=c,python,bash,,kibana,grafana,elasticsearch,elastic,Prometheus,mongodb,mysql" />
-    <img src="https://skillicons.dev/icons?i=github,linux,aws,azure,oci,gcp,docker,kubernetes,ansible,terraform" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,nginx,html,css,vscode,github,redis,git,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=c,python,kibana,grafana,elasticsearch,elastic,Prometheus,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=github,linux,aws,azure,oraclecloud,gcp,docker,kubernetes,ansible,terraform" /><br>
 </div>
 
 <div align="center">
